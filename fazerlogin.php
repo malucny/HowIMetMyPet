@@ -51,7 +51,7 @@
 <body>
     <div class="login-container">
         <h2>Fazer Login</h2>
-        <form action="processarlogin.php" method="post">
+        <form action="loginbd.php" method="post">
             <label for="username">Usuário:</label>
             <input type="text" id="username" name="username"><br><br>
             <label for="password">Senha:</label>
