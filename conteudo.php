@@ -4,27 +4,28 @@
 
 
 
-<div style="background-image: linear-gradient(#f7ee65, white); border-top-style:solid; border-color:#f7ee65">
+<div style="border-top-style:solid; border-color:#f7ee65">
   <h2 style="text-align:center; font-weight:bolder; color:darkslategrey"> How I Met My Pet:<br> Conheça o amor em quatro patas!</br> </h2>
-  <p style= "font-size: 18px; text-align:center"><br></br> </p>
+  <br></br> 
   
 
-  <p style= "font-size: 25px; text-align:center; font-weight:bolder; color:#4272bc"> Por que Adotar?</p>
-  <p style= "font-size: 18px; text-align:center; font-weight:bold; color:darkslategray">Adotar um animal não é apenas oferecer um lar, mas sim construir uma conexão inestimável.
+  <h2 style= "text-align:center; font-weight:bolder; color:#4272bc"> Por que Adotar?</h2>
+  <h4 style= "text-align:center; font-weight:bold; color:darkslategray">Adotar um animal não é apenas oferecer um lar, mas sim construir uma conexão inestimável.
   <br> Nossos amigos peludos aguardam ansiosamente por uma segunda chance de serem amados e proporcionarem uma lealdade incomparável.</br>
-  Além disso, a adoção contribui para reduzir a superlotação em abrigos e oferece uma oportunidade única de transformar a vida de um ser indefeso. </p>
+  Além disso, a adoção contribui para reduzir a superlotação em abrigos e oferece uma oportunidade única de transformar a vida de um ser indefeso. </h4>
 
 
-  <p style= "font-size: 25px; text-align:center; font-weight:bolder; color:#4272bc"> <br>Diversidade de Companheiros </br></p>
-  <p style= "font-size: 18px; text-align:center; font-weight:bold; color:darkslategray">Em nosso serviço, você encontrará uma ampla variedade de animais, desde cachorros e gatos adoráveis. 
-  <br>Cada um deles possui uma história única e está pronto para se tornar parte da sua família.</br></p>
+  <h2 style= "text-align:center; font-weight:bolder; color:#4272bc"> <br>Diversidade de Companheiros </br></h2>
+  <h4 style= "text-align:center; font-weight:bold; color:darkslategray">Em nosso serviço, você encontrará uma ampla variedade de animais, desde cachorros e gatos adoráveis. 
+  <br>Cada um deles possui uma história única e está pronto para se tornar parte da sua família.</br></h4>
   
   
-  <p style= "font-size: 25px; text-align:center; font-weight:bolder; color:#4272bc"> <br>Faça a Diferença: Adote Hoje!</br></p>
-  <p style= "font-size: 18px; text-align:center; font-weight:bold; color:darkslategray">Ao adotar um animal de nosso serviço, você não apenas enriquece a sua vida, mas também salva uma vida.
+  <h2 style= "text-align:center; font-weight:bolder; color:#4272bc"> <br>Faça a Diferença: Adote Hoje!</br></h2>
+  <h4 style= "text-align:center; font-weight:bold; color:darkslategray">Ao adotar um animal de nosso serviço, você não apenas enriquece a sua vida, mas também salva uma vida.
   <br>Estamos comprometidos em facilitar o encontro de almas afins e criar laços duradouros.</br> 
   Não espere mais. Visite nosso abrigo, conheça nossos amigos de quatro patas e descubra como a adoção pode transformar
-  <br> não apenas a vida deles, mas também a sua. Adote um amigo, e experimente a alegria única de ter um amor incondicional ao seu lado.</br></p>
+  <br> não apenas a vida deles, mas também a sua. Adote um amigo, e experimente a alegria única de ter um amor incondicional ao seu lado.</br></h4>
 
 
 </div>
+
