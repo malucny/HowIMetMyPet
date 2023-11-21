@@ -52,10 +52,10 @@
     <div class="login-container">
         <h2>Fazer Login</h2>
         <form action="loginbd.php" method="post">
-            <label for="usuario">Usuário:</label>
-            <input type="text" id="usuario" name="usuario"><br><br>
-            <label for="senha">Senha:</label>
-            <input type="senha" id="senha" name="senha"><br><br>
+            <label for="username">Usuário:</label>
+            <input type="text" id="username" name="username"><br><br>
+            <label for="password">Senha:</label>
+            <input type="password" id="password" name="password"><br><br>
             <input type="submit" value="Entrar">
         </form>
     </div>
