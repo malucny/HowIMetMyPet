@@ -52,3 +52,4 @@ $conexao = new mysqli($localhost, $user, $password, $banco);
 $conexao->close();
 
 ?>
+
