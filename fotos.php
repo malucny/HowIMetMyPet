@@ -4,7 +4,7 @@
 
 
 
-<div style="background-image: linear-gradient(#f7ee65, white); border-top-style:solid; border-color:#f7ee65; text-align:center;">
+<div style="border-top-style:solid; border-color:#f7ee65; text-align:center;">
 
 <br></br>
 
