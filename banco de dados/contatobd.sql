@@ -1,5 +1,3 @@
-CREATE DATABASE projetofinal;
-
 CREATE TABLE adocao (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(50),
