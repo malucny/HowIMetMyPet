@@ -2,13 +2,13 @@
 <?php
 session_start();
 
-if(isset($_POST['username']) && isset($_POST['password'])) {
+if(isset($_POST['usuario']) && isset($_POST['senha'])) {
 
     $username_correto = 'admin';
     $password_correto = 'senha123';
 
-    $username = $_POST['username'];
-    $password = $_POST['password'];
+    $usuario = $_POST['usuario'];
+    $senha = $_POST['senha'];
 
 if ($username === $username_correto && $password === $password_correto) {
 
