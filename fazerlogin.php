@@ -20,6 +20,6 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
 } else {
     // Se estiver logado, exibe essa mensagemna página de login;
     echo '<h2>Bem-vindo!</h2>';
-    echo '<p>Seu Login foi bem sucedido <3.</p>';
+    echo '<p>Seu Login foi concluído.</p>';
 }
 ?>
