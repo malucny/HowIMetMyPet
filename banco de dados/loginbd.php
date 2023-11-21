@@ -7,11 +7,6 @@ $user = "root";
 $password = "";
 $banco = "projetofinal";
 
-// dados
-
-$usuario = $_POST["usuario"];
-$senha = $_POST["senha"];
-
 // checa a conexão
 
 $conexao = new mysqli($localhost, $user, $password, $banco);
