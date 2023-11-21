@@ -50,7 +50,7 @@
 <body>
     <div class="contact-form">
     <h2>Fale conosco</h2>
-    <form action="faleconosco.bd" method="post">
+    <form action="faleconoscobd.php" method="post">
         <label for="nome">Nome:</label>
         <input type="text" name="nome"><br>
 
