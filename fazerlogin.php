@@ -52,10 +52,10 @@
     <div class="login-container">
         <h2>Fazer Login</h2>
         <form action="loginbd.php" method="post">
-            <label for="username">Usuário:</label>
-            <input type="text" id="username" name="username"><br><br>
-            <label for="password">Senha:</label>
-            <input type="password" id="password" name="password"><br><br>
+            <label for="usuario">Usuário:</label>
+            <input type="text" id="usuario" name="usuario"><br><br>
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="senha"><br><br>
             <input type="submit" value="Entrar">
         </form>
     </div>
@@ -63,11 +63,12 @@
     <?php
     session_start();
 
-    // Verificar se o usuário está realmente logado;
+    // verifica se o usuário está realmente logado;
+
     if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
   
     } else {
-        // Se estiver logado, exibe essa mensagem na página de login;
+
         echo '<div style="text-align: center; margin-top: 20px;">';
         echo '<h2>Bem-vindo!</h2>';
         echo '<p>Seu login foi concluído.</p>';
