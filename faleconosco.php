@@ -69,5 +69,3 @@
         <input type="submit" value="Enviar">
     </form>
 </div>
-</body>
-</html>
