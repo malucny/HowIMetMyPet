@@ -34,6 +34,8 @@ This system allows the registration, search, and management of animals for adopt
 4. Inicie um servidor local (XAMPP, WAMP, MAMP, etc.) e abra o arquivo `index.php` no navegador.  
 5. Explore o sistema para cadastrar e visualizar pets disponíveis para adoção.  
 
+---
+
 1. Clone this repository to your local machine:  
    ```bash
    git clone https://github.com/malucny/HowIMetMyPet.git
